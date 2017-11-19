@@ -1,0 +1,23 @@
+[
+  {
+    "id":"0",
+    "name":"Home",
+    "href":"https://youtube.com",
+    "color":"c0392b"
+  },{
+    "id":"1",
+    "name":"Projects",
+    "href":"https://youtube.com/1",
+    "color":"2980b9"
+  },{
+    "id":"2",
+    "name":"Blog",
+    "href":"https://youtube.com/2",
+    "color":"27ae60"
+  },{
+    "id":"3",
+    "name":"Contact",
+    "href":"https://youtube.com/3",
+    "color":"d35400"
+  }
+]
