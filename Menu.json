@@ -21,6 +21,25 @@
     "name":"Contact",
     "href":"https://youtube.com/3",
     "color":"d35400"
+  },"id":"4",
+    "name":"Home",
+    "href":"https://youtube.com",
+    "color":"c0392b"
+  },{
+    "id":"5",
+    "name":"Projects",
+    "href":"https://youtube.com/1",
+    "color":"2980b9"
+  },{
+    "id":"6",
+    "name":"Blog",
+    "href":"https://youtube.com/2",
+    "color":"27ae60"
+  },{
+    "id":"7",
+    "name":"Contact",
+    "href":"https://youtube.com/3",
+    "color":"d35400"
   }
 ]
 }
