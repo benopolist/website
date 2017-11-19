@@ -1,5 +1,18 @@
 {
   "amount": "4",
+  "colorList": [
+    {
+      "color":"c0392b"
+  },{
+      "color":"16a085"
+  },{
+      "color":"8e44ad"
+  },{
+      "color":"7f8c8d"
+  },{
+      "color":"d35400"
+  }
+],
   "objects": [
     {
     "id":"0",
